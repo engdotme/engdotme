@@ -72,12 +72,6 @@ I build systems that scale and AI features that actually ship â€” not demos. ðŸš
 ## GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=engdotme&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark_dimmed&hide_title=true" height="160" alt="GitHub stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engdotme&layout=compact&hide_border=true&theme=github_dark_dimmed&langs_count=8" height="160" alt="Top languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=engdotme&hide_border=true&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D" height="160" alt="Contribution streak" />
 </p>
 
