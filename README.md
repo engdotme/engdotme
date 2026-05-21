@@ -9,29 +9,27 @@
   </a>
 </div>
 
-I build systems that scale and AI features that actually ship — not demos. 🚀
+---
+
+## 🙋‍♂️ About Me
+
+- 💼 **10+ years** building scalable enterprise platforms, AI-powered applications, and cloud-native backends
+- 🌐 Domains: **fintech**, **healthtech**, **proptech**, and **e-commerce** — secure, observable, built for real load
+- ⚙️ **ASP.NET Core** microservices, distributed systems, and intelligent automation wired into production apps
+- 🤖 **LLM integration** beyond prompts: RAG, semantic search, tool use, structured output, eval loops, cost controls
+- 💻 Full stack when it matters: **React**, **Next.js**, **TypeScript**, modern APIs and data layers
 
 ---
 
-## About
+## 🚀 Skills & Technologies
 
-- **10+ years** building scalable enterprise platforms, AI-powered applications, and cloud-native backends
-- Domains: **fintech**, **healthtech**, **proptech**, and **e-commerce** — secure, observable, built for real load
-- **ASP.NET Core** microservices, distributed systems, and intelligent automation wired into production apps
-- **LLM integration** beyond prompts: RAG, semantic search, tool use, structured output, eval loops, cost controls
-- Full stack when it matters: **React**, **Next.js**, **TypeScript**, modern APIs and data layers
-
----
-
-## Stack
-
-### Languages & runtimes
+### Languages
 
 | C# | TypeScript | JavaScript | Python | SQL |
 |:-:|:-:|:-:|:-:|:-:|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/> |
 
-### Backend & APIs
+### Backend & Databases
 
 | .NET | ASP.NET Core | Node.js | Entity Framework | REST / gRPC |
 |:-:|:-:|:-:|:-:|:-:|
@@ -43,7 +41,7 @@ I build systems that scale and AI features that actually ship — not demos. �
 |:-:|:-:|:-:|:-:|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="40" height="40"/> |
 
-### Data
+### Data & Caching
 
 | PostgreSQL | SQL Server | MongoDB | Redis | MySQL |
 |:-:|:-:|:-:|:-:|:-:|
@@ -65,7 +63,7 @@ I build systems that scale and AI features that actually ship — not demos. �
 
 ---
 
-## Focus
+## 🎯 Focus Areas
 
 | Area | What I do |
 |------|-----------|
@@ -76,7 +74,7 @@ I build systems that scale and AI features that actually ship — not demos. �
 
 ---
 
-## GitHub
+## 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=engdotme&hide_border=true&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D" height="160" alt="Contribution streak" />
@@ -88,6 +86,6 @@ I build systems that scale and AI features that actually ship — not demos. �
 
 ---
 
-## Random dev quote
+## ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?theme=github_dark_dimmed&type=horizontal)
