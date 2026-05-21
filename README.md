@@ -1,6 +1,13 @@
 # Hey there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=58A6FF&size=28&lines=Senior+.NET+%26+AI+Platform+Engineer;Systems+that+scale+%E2%80%94+AI+that+ships;ASP.NET+Core+%C2%B7+Microservices+%C2%B7+RAG;Production+LLMs%2C+not+demos&font=Fira+Code&center=true&height=40&width=700&vCenter=true)](https://github.com/engdotme)
+<div align="center">
+  <a href="https://github.com/engdotme">
+    <img
+      src="https://readme-typing-svg.demolab.com/?color=58A6FF&size=28&lines=Senior+.NET+%26+AI+Platform+Engineer&lines=Systems+that+scale+%E2%80%94+AI+that+ships&lines=ASP.NET+Core+%C2%B7+Microservices+%C2%B7+RAG&lines=Production+LLMs%2C+not+demos&font=Fira+Code&center=true&vCenter=true&width=600&height=45"
+      alt="Typing animation"
+    />
+  </a>
+</div>
 
 I build systems that scale and AI features that actually ship — not demos. 🚀
 
