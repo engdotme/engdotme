@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://github.com/engdotme">
     <img
-      src="https://readme-typing-svg.demolab.com/?color=58A6FF&size=28&lines=Senior+.NET+%26+AI+Platform+Engineer&lines=Systems+that+scale+%E2%80%94+AI+that+ships&lines=ASP.NET+Core+%C2%B7+Microservices+%C2%B7+RAG&lines=Production+LLMs%2C+not+demos&font=Fira+Code&center=true&vCenter=true&width=600&height=45"
+      src="https://readme-typing-svg.demolab.com/?color=58A6FF&size=28&lines=Senior+.NET+%26+AI+Platform+Engineer;Systems+that+scale+%E2%80%94+AI+that+ships;ASP.NET+Core+%C2%B7+Microservices+%C2%B7+RAG;Production+LLMs%2C+not+demos&font=Fira+Code&center=true&vCenter=true&width=600&height=45"
       alt="Typing animation"
     />
   </a>
@@ -25,41 +25,49 @@
 
 ### Languages
 
-| C# | TypeScript | JavaScript | Python | SQL |
-|:-:|:-:|:-:|:-:|:-:|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/> |
-
-### Backend & Databases
-
-| .NET | ASP.NET Core | Node.js | Entity Framework | REST / gRPC |
-|:-:|:-:|:-:|:-:|:-:|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/> | — |
+| Python | C++ | JavaScript | Java | C# | TypeScript |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/> |
 
 ### Frontend
 
-| React | Next.js | Tailwind CSS | Redux |
-|:-:|:-:|:-:|:-:|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="40" height="40"/> |
+| ReactJS | NextJS | HTML5 | CSS3 | TailwindCSS | Redux Toolkit |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" alt="Redux"/> |
 
-### Data & Caching
+### Backend & Databases
 
-| PostgreSQL | SQL Server | MongoDB | Redis | MySQL |
-|:-:|:-:|:-:|:-:|:-:|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40" height="40"/> |
+| NodeJS | ExpressJS | MongoDB | Postgres | Firebase | REST APIs |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="Postgres"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="40" height="40" alt="Firebase"/> | <img src="https://camo.githubusercontent.com/b78d991646e774ae769cf3689b694f8abad4fad9278da60e1ca83ee6d55bb777/68747470733a2f2f6d656469612e6c6f726469636f6e2e636f6d2f69636f6e732f77697265642f6f75746c696e652f313333302d726573742d6170692e676966" width="40" height="40" alt="REST APIs"/> |
+
+| .NET | ASP.NET Core | Entity Framework | SQL Server | MySQL | Redis |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40" alt=".NET"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" alt="ASP.NET Core"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" alt="Entity Framework"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" alt="SQL Server"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="Redis"/> |
+
+### Python Libraries & Tools
+
+| NumPy | Pandas | Matplotlib | Scikit-Learn | TensorFlow | Flask |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40" alt="Matplotlib"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="Scikit-Learn"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" alt="Flask"/> |
+
+### Environments & Tools
+
+| Conda | Jupyter | Android Studio | VSCode | Git | Markdown |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" width="40" height="40" alt="Conda"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40" alt="Jupyter"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40" alt="Android Studio"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" height="40" alt="Markdown"/> |
+
+### Infrastructure & Orchestration
+
+| Docker | Kubernetes | ApacheKafka | RabbitMQ | NGINX | SSL |
+|:------:|:----------:|:------------:|:--------:|:-----:|:-------:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" height="40" alt="Kafka"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="40" height="40" alt="RabbitMQ"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40" alt="NGINX"/> | <img src="https://camo.githubusercontent.com/c96cc23142ecc797e12064f4512c33d794a48a502f59583ecfe13538153c578b/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e643947635135455836456e324d6e43387438525678445353496b53744a543262356231534c4e7a672673" width="40" height="40" alt="SSL"/> |
 
 ### AI / LLM
 
-| Azure OpenAI | OpenAI API | LangChain | RAG & vectors | AI agents |
-|:-:|:-:|:-:|:-:|:-:|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="40" height="40"/> | — | — | — | — |
-
-*NLP · semantic search · conversational workflows · eval & cost controls*
-
-### Cloud & DevOps
-
-| Azure | AWS | Docker | Kubernetes | RabbitMQ | GitHub Actions |
+| Azure OpenAI | OpenAI | LangChain | RAG | Vector DBs | AI Agents |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/> | — | <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40" height="40"/> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" alt="Azure OpenAI"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="40" height="40" alt="OpenAI"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="LangChain"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="RAG"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="Vector DBs"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="AI Agents"/> |
 
 ---
 
@@ -75,10 +83,6 @@
 ---
 
 ## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=engdotme&hide_border=true&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D" height="160" alt="Contribution streak" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=engdotme&label=Profile%20views&color=58A6FF&style=flat" alt="Profile views" />
