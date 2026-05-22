@@ -65,9 +65,9 @@
 
 ### AI / LLM
 
-| Azure OpenAI | OpenAI | LangChain | RAG | Vector DBs | AI Agents |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" alt="Azure OpenAI"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="40" height="40" alt="OpenAI"/> | <img src="https://cdn.simpleicons.org/langchain/FFFFFF" width="40" height="40" alt="LangChain"/> | <img src="./assets/icons/rag.svg" width="40" height="40" alt="RAG"/> | <img src="https://cdn.simpleicons.org/pinecone/FFFFFF" width="40" height="40" alt="Vector DBs"/> | <img src="./assets/icons/ai-agents.svg" width="40" height="40" alt="AI Agents"/> |
+| Azure OpenAI | OpenAI | LangChain | RAG | AI Agents |
+|:-:|:-:|:-:|:-:|:-:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" alt="Azure OpenAI"/> | <img src="./assets/icons/openai.svg" width="40" height="40" alt="OpenAI"/> | <img src="./assets/icons/langchain.svg" width="40" height="40" alt="LangChain"/> | <img src="./assets/icons/rag.svg" width="40" height="40" alt="RAG"/> | <img src="./assets/icons/ai-agents.svg" width="40" height="40" alt="AI Agents"/> |
 
 ---
 
