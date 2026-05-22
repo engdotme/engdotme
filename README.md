@@ -82,14 +82,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=engdotme&label=Profile%20views&color=58A6FF&style=flat" alt="Profile views" />
-</p>
-
----
-
 ## ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?theme=github_dark_dimmed&type=horizontal)
