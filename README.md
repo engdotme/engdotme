@@ -21,6 +21,17 @@
 
 ---
 
+## 🎯 Focus Areas
+
+| Area | What I do |
+|------|-----------|
+| 🤖 **AI-native backends** | RAG pipelines, semantic search, agentic workflows in production apps |
+| ⚙️ **Microservices** | Secure ASP.NET Core services — auth, observability, event-driven scale |
+| 🧠 **LLM integration** | Tool use, structured output, categorization, forecasting, intelligent summaries |
+| 📈 **Platform performance** | Caching, async jobs, query tuning — measurable latency and throughput wins |
+
+---
+
 ## 🚀 Skills & Technologies
 
 ### Languages
@@ -70,18 +81,3 @@
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" alt="Azure OpenAI"/> | <img src="./assets/icons/openai.svg" width="40" height="40" alt="OpenAI"/> | <img src="./assets/icons/langchain.svg" width="40" height="40" alt="LangChain"/> | <img src="./assets/icons/rag.svg" width="40" height="40" alt="RAG"/> | <img src="./assets/icons/ai-agents.svg" width="40" height="40" alt="AI Agents"/> |
 
 ---
-
-## 🎯 Focus Areas
-
-| Area | What I do |
-|------|-----------|
-| 🤖 **AI-native backends** | RAG pipelines, semantic search, agentic workflows in production apps |
-| ⚙️ **Microservices** | Secure ASP.NET Core services — auth, observability, event-driven scale |
-| 🧠 **LLM integration** | Tool use, structured output, categorization, forecasting, intelligent summaries |
-| 📈 **Platform performance** | Caching, async jobs, query tuning — measurable latency and throughput wins |
-
----
-
-## ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?theme=github_dark_dimmed&type=horizontal)
