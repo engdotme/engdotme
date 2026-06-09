@@ -13,7 +13,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 💼 **10+ years** building scalable enterprise platforms, AI-powered applications, and cloud-native backends
+- 💼 Building scalable enterprise platforms, AI-powered applications, and cloud-native backends
 - 🌐 Domains: **fintech**, **healthtech**, **proptech**, and **e-commerce** — secure, observable, built for real load
 - ⚙️ **ASP.NET Core** microservices, distributed systems, and intelligent automation wired into production apps
 - 🤖 **LLM integration** beyond prompts: RAG, semantic search, tool use, structured output, eval loops, cost controls
